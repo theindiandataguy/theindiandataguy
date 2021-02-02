@@ -12,26 +12,7 @@ I am Computer Engineer who is currently studying from Indus University, and inte
 <br />
 <img align="left" alt="Shravan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shravan1799&show_icons=true&hide_border=true&theme=react" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shravan1799&layout=compact)
-
 
 ### Connect with me:
 
