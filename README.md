@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there, I'm Shravan. 👋
 
-<!--
-**shravan1799/shravan1799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=Shravan's_portfolio&style=for-the-badge&url=https://shravan1799.github.io/)](https://shravan1799.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shravan1711?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShravan1711&screen_name=Shravan1711)
 
-Here are some ideas to get you started:
+## I'm a Python Programmer, ML/DL enthusiast and interested in Computer Vision technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Computer Engineer who is currently studying from Indus University, and interested in Machine learning and Computer vision
+
+
+<summary>:zap: GitHub Stats</summary>
+<br />
+<img align="left" alt="Shravan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shravan1799&show_icons=true&hide_border=true&theme=radical" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="Shravan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shravan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shravan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shravan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+[website]: https://shravan1799.github.io/
+[twitter]: https://twitter.com/Shravan1711
+[instagram]: https://instagram.com/shinchan_nubs
+[linkedin]: https://www.linkedin.com/in/shravan-patel-87a6021b0/
