@@ -5,7 +5,7 @@
 
 ## I'm a Python Programmer, ML/DL enthusiast and interested in Computer Vision technology
 
-I am Computer Engineer who is currently studying from Indus University, and interested in Machine learning and Computer vision
+I am Computer Engineer, and interested in Deep learning and Computer vision
 
 
 <summary>:zap: GitHub Stats</summary>
