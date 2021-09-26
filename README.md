@@ -1,7 +1,5 @@
 ### Hi there, I'm Shravan. 👋
 
-[![Website](https://img.shields.io/website?label=Shravan's_portfolio&style=for-the-badge&url=https://shravan17.tech/)](https://shravan17.tech/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shravan1711?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShravan1711&screen_name=Shravan1711)
 
 ## I'm a Python Programmer, interested in Computer Vision technology. Currently working in Cloud and Big Data Analytics.
 
