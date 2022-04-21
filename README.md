@@ -1,7 +1,7 @@
 ### Hi there, I'm Shravan. 👋
 
 
-## I'm a Python Programmer, interested in Computer Vision technology. Currently working in Cloud and Big Data Analytics.
+## I'm a Python Programmer. Currently working in Cloud Technology and Data Streaming.
 
 
 <summary>:zap: GitHub Stats</summary>
