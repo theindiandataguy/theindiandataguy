@@ -21,5 +21,4 @@
 
 [website]: https://shravan1799.github.io/
 [twitter]: https://twitter.com/Shravan1711
-[instagram]: https://instagram.com/shinchan_nubs
 [linkedin]: https://www.linkedin.com/in/shravan-patel-87a6021b0/
