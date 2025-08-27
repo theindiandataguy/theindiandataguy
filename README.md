@@ -1,11 +1,13 @@
 <h2 align="left">Hi 👋, I'm Shravan</h2>
-<h3 align="left">AWS Data Engineer</h3>
+<h3 align="left">Data Engineer</h3>
 <h3 align="left">AWS Certified Solutions Architect Associate</h3>
 
 ## 🌐 About Me:<br>
-🚀 I’m currently exploring the world of AI, LLMs, and RAGs, building models, and applying them to real-world use cases.<br>
+Results-driven Data Engineer with 4+ years of hands-on experience designing and delivering scalable, cloud-native data solutions on AWS. Expertise in real-time streaming, batch data processing, ETL/ELT pipelines, and cloud migrations. Adept in Python, microservice and serverless architectures, with proven leadership in end-to-end project delivery, data quality automation, and cost optimization. Skilled in managing large-scale distributed systems with a strong focus on performance tuning, reliability, and observability. Ability to handle multiple projects simultaneously with a high degree of accuracy and effective task management.
+
+🚀 I’m currently exploring cloud agnostic technologies like dbt, snowflake etc.<br>
 💼 As a Data Engineer, I specialize in Cloud Data Engineering, Data Streaming, DWH and all things AWS. My expertise spans both SQL and NoSQL, with hands-on experience in optimizing data/ETL pipelines and architectures for scalability and efficiency.<br>
-📈 Spearheaded cloud migrations, enhanced real-time analytics, and developed innovative microservice architectures and ETL solutions.<br>
+📈 Spearheaded cloud migrations, enhanced real-time analytics, and developed innovative microservice architectures and ETL pipelines.<br>
 💡 Evaluated new technologies and industry trends to identify opportunities for enhancing current systems or developing innovative solutions.<br>
 🐍 Skilled in Python, I’m also diving into Golang and goroutines for high-performance, low-latency asynchronous processing, ensuring optimal resource utilization.<br>
 💬 Feel free to ask me about data engineering, cloud infrastructure, or how I’m integrating AI into real-world solutions!<br>
@@ -49,7 +51,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🏆 Badges
-<img src="aws-solutions-architect-associate.png" alt="aws-solutions-architect-associate" style="width: 170px; height: auto;"> <img src="aws-knowledge-compute.png" alt="aws-knowledge-compute" style="width: 170px; height: auto;"> <img src="aws-knowledge-file-storage.png" alt="aws-knowledge-file-storage" style="width: 170px; height: auto;"> <img src="aws-knowledge-serverless.png" alt="aws-knowledge-serverless" style="width: 170px; height: auto;"> <img src="databricks_aws.png" alt="databricks_aws" style="width: 170px; height: auto;">
+<img src="aws-solutions-architect-associate.png" alt="aws-solutions-architect-associate" style="width: 170px; height: auto;"> <img src="aws-knowledge-compute.png" alt="aws-knowledge-compute" style="width: 170px; height: auto;"> <img src="aws-knowledge-file-storage.png" alt="aws-knowledge-file-storage" style="width: 170px; height: auto;"> <img src="aws-knowledge-serverless.png" alt="aws-knowledge-serverless" style="width: 170px; height: auto;"> <img src="databricks_aws.png" alt="databricks_aws" style="width: 170px; height: auto;"> <img src="google analytics.png" alt="databricks_aws" style="width: 170px; height: auto;">
 
 ## 🌊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shravan1799&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
