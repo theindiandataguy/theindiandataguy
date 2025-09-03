@@ -54,9 +54,9 @@ Results-driven Data Engineer with 4+ years of hands-on experience designing and 
 <img src="aws-solutions-architect-associate.png" alt="aws-solutions-architect-associate" style="width: 170px; height: auto;"> <img src="aws-knowledge-compute.png" alt="aws-knowledge-compute" style="width: 170px; height: auto;"> <img src="aws-knowledge-file-storage.png" alt="aws-knowledge-file-storage" style="width: 170px; height: auto;"> <img src="aws-knowledge-serverless.png" alt="aws-knowledge-serverless" style="width: 170px; height: auto;"> <img src="databricks_aws.png" alt="databricks_aws" style="width: 170px; height: auto;"> <img src="google analytics.png" alt="databricks_aws" style="width: 170px; height: auto;">
 
 ## 🌊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shravan1799&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shravan1799&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shravan1799&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=theindiandataguy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theindiandataguy&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theindiandataguy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shravan1799&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=theindiandataguy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
