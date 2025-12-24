@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Shravan</h2>
 <h3 align="left">Data Engineer</h3>
-<h3 align="left">AWS Certified Solutions Architect Associate</h3>
+<h3 align="left">AWS Certified Solutions Architect</h3>
 
 ## 🌐 About Me:<br>
 Results-driven Data Engineer with 4+ years of hands-on experience designing and delivering scalable, cloud-native data solutions on AWS. Expertise in real-time streaming, batch data processing, ETL/ELT pipelines, and cloud migrations. Adept in Python, microservice and serverless architectures, with proven leadership in end-to-end project delivery, data quality automation, and cost optimization. Skilled in managing large-scale distributed systems with a strong focus on performance tuning, reliability, and observability. Ability to handle multiple projects simultaneously with a high degree of accuracy and effective task management.
@@ -52,7 +52,7 @@ Results-driven Data Engineer with 4+ years of hands-on experience designing and 
 ![dbt](https://img.shields.io/badge/dbt-262A38?style=for-the-badge&logo=dbt&logoColor=white)
 
 ## 🏆 Badges
-<img src="aws-solutions-architect-associate.png" alt="aws-solutions-architect-associate" style="width: 170px; height: auto;"> <img src="aws-knowledge-compute.png" alt="aws-knowledge-compute" style="width: 170px; height: auto;"> <img src="aws-knowledge-file-storage.png" alt="aws-knowledge-file-storage" style="width: 170px; height: auto;"> <img src="aws-knowledge-data-migration-training-badge.png" alt="aws-knowledge-data-migration-training-badge" style="width: 170px; height: auto;"> <img src="aws-knowledge-serverless.png" alt="aws-knowledge-serverless" style="width: 170px; height: auto;"> <img src="databricks_aws.png" alt="databricks_aws" style="width: 170px; height: auto;"> <img src="google analytics.png" alt="databricks_aws" style="width: 170px; height: auto;">
+<img src="aws-certified-solutions-architect-professional.png" alt="aws-certified-solutions-architect-professional" style="width: 170px; height: auto;"> <img src="aws-solutions-architect-associate.png" alt="aws-solutions-architect-associate" style="width: 170px; height: auto;"> <img src="aws-knowledge-compute.png" alt="aws-knowledge-compute" style="width: 170px; height: auto;"> <img src="aws-knowledge-file-storage.png" alt="aws-knowledge-file-storage" style="width: 170px; height: auto;"> <img src="aws-knowledge-data-migration-training-badge.png" alt="aws-knowledge-data-migration-training-badge" style="width: 170px; height: auto;"> <img src="aws-knowledge-serverless.png" alt="aws-knowledge-serverless" style="width: 170px; height: auto;"> <img src="databricks_aws.png" alt="databricks_aws" style="width: 170px; height: auto;"> <img src="google analytics.png" alt="databricks_aws" style="width: 170px; height: auto;">
 
 ## 🌊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=theindiandataguy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
