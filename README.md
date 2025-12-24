@@ -25,6 +25,7 @@ Results-driven Data Engineer with 4+ years of hands-on experience designing and 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-9B0F0F?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-5A67D8?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/Cockroach%20DB-5A17D8?style=for-the-badge&logo=cockroachlabs&logoColor=white)
 ![Aurora](https://img.shields.io/badge/Amazon%20Aurora-336791?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
